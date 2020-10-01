@@ -29,6 +29,7 @@ public class Hotel {
                 switch (petsName) {
                     case "Sixten":
                     JOptionPane.showMessageDialog(null, sixten.printMe());
+                    break;
                     case "Dogge":
                     JOptionPane.showMessageDialog(null, dogge.printMe());
                     break;
